@@ -1,0 +1,15 @@
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\bin\Debug\net6.0\example3.exe
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\bin\Debug\net6.0\example3.deps.json
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\bin\Debug\net6.0\example3.runtimeconfig.json
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\bin\Debug\net6.0\example3.dll
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\bin\Debug\net6.0\example3.pdb
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\obj\Debug\net6.0\example3.csproj.AssemblyReference.cache
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\obj\Debug\net6.0\example3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\obj\Debug\net6.0\example3.AssemblyInfoInputs.cache
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\obj\Debug\net6.0\example3.AssemblyInfo.cs
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\obj\Debug\net6.0\example3.csproj.CoreCompileInputs.cache
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\obj\Debug\net6.0\example3.dll
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\obj\Debug\net6.0\refint\example3.dll
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\obj\Debug\net6.0\example3.pdb
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\obj\Debug\net6.0\example3.genruntimeconfig.cache
+C:\Users\Арнольд Кравченко\Desktop\C#\example1\example3\obj\Debug\net6.0\ref\example3.dll
